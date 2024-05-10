@@ -1,0 +1,20 @@
+[Mapa]
+Name=Duelos
+MusicNum=0
+MagiaSinefecto=0
+InviSinEfecto=1
+ResuSinEfecto=1
+NoEncriptarMP=0
+Terreno=BOSQUE
+Zona=CAMPO
+Restringir=No
+BackUp= 1
+Pk=0
+[MAPA136]
+Name=Duelos
+MagiaSinefecto=0
+InviSinEfecto=1
+ResuSinEfecto=1
+NoEncriptarMP=0
+BackUp= 1
+Pk=0

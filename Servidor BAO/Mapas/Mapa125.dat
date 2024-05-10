@@ -1,0 +1,36 @@
+[MAPA52]
+Name=Zona de duelo
+MusicNum=111
+MagiaSinefecto=0
+InviSinEfecto=0
+ResuSinEfecto=0
+NoEncriptarMP=0
+Terreno=BOSQUE
+Zona=CAMPO
+Restringir=No
+BackUp= 0
+Pk=0
+[MAP55]
+Name=Zona de Duelos
+MagiaSinefecto=0
+InviSinEfecto=1
+ResuSinEfecto=1
+NoEncriptarMP=0
+BackUp= 0
+Pk=0
+MusicNum=44
+[MAPA125]
+Name=sona duelos
+MagiaSinefecto=0
+InviSinEfecto=1
+ResuSinEfecto=1
+NoEncriptarMP=0
+BackUp= 0
+Pk=0
+[MAPA125(TRIGGERS)]
+MagiaSinefecto=0
+InviSinEfecto=0
+ResuSinEfecto=0
+NoEncriptarMP=0
+BackUp= 0
+Pk=0
